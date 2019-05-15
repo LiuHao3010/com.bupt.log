@@ -1,0 +1,366 @@
+00:14:54,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+http://nankai.17gz.org/member/login.do?
+00:15:14,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+00:16:16,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?17563=
+00:18:39,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=ykvw
+00:18:40,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113120159=
+00:18:55,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=qgdf
+00:18:57,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113136988=
+00:19:22,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=cmxh
+00:19:36,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=cmxh
+00:19:39,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113179259=
+00:19:44,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=cmxh
+00:19:45,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113184904=
+00:19:54,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=qqtl
+00:19:57,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113195149=
+00:20:03,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113201302=
+00:20:17,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=mwka
+00:20:26,146.185.157.19,null,4fa3aba2b92c423e9e3b7a1dbfcf6f99,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544113226256=
+00:21:18,117.136.38.138,null,673a256524f942b99acd4762a55c8f83,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/report/show.do?applyNo=20180300210&jasperPrintKey=nankai100552&apply_id=F0C36D8E4256472E9D90E8515CEC7380&reportType=directPdf
+00:33:44,79.49.23.204,null,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/index.do?
+00:33:45,79.49.23.204,null,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/login.do?
+00:33:48,79.49.23.204,null,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/captcha.do?18154=
+01:06:29,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+http://nankai.17gz.org/member/login.do?
+01:06:30,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+01:06:30,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?19160=
+01:06:38,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/showRegistAgreement.do?
+01:06:46,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/showRegistAgreement.do?
+01:06:48,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/showRegist.do?
+01:06:48,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?j_captcha_type=member_regist&r=19184
+01:06:51,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/checkUserName.do?userName=guswls1206
+01:07:00,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/checkEmail.do?email=guswls1153610%40gmail.com
+01:07:06,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/saveRegist.do?member.username=guswls1206&member.email=guswls1153610%40gmail.com&j_captcha_type=member_regist&j_captcha=FEXG
+01:07:06,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/regconfirm.do?email=guswls1153610%40gmail.com
+01:08:02,116.127.149.153,null,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/active.do?credential=659fa410a688479185c51e72ece1530c&username=guswls1206&request_locale=en_US
+01:08:03,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+01:08:36,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveAcademicType.do?projectTypeId=ff80808147521243014757b4db74036c
+01:09:48,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff80808147521243014757b75de30371
+01:10:34,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryMajorOptions.do?collegeId=2012dda6065640004100552
+01:10:35,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=2012dda6065640004100552&majorId=&majorField=&teachLanguage=0&pageSize=20&pageNum=1
+01:10:39,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryMajorOptions.do?collegeId=ff8080814dd5d8f3014de081614c1f96
+01:10:39,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=ff8080814dd5d8f3014de081614c1f96&majorId=&majorField=&teachLanguage=0&pageSize=20&pageNum=1
+01:10:57,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+01:11:00,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveAcademicType.do?projectTypeId=ff80808147521243014757b4db74036c
+01:11:02,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff80808147521243014757b75de30371
+01:11:15,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=&majorId=xtma66100552&majorField=&teachLanguage=&pageSize=20&pageNum=1
+01:11:24,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=&majorId=xtma64100552&majorField=&teachLanguage=&pageSize=20&pageNum=1
+01:11:30,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=&majorId=xtma105100552&majorField=&teachLanguage=&pageSize=20&pageNum=1
+01:11:36,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=&majorId=xtma61100552&majorField=&teachLanguage=&pageSize=20&pageNum=1
+01:11:40,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=&majorId=xtma56100552&majorField=&teachLanguage=&pageSize=20&pageNum=1
+01:11:56,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyIndex.do?
+01:12:02,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/startApply.do?
+01:12:03,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/index.do?
+01:12:12,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+01:12:22,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveAcademicType.do?projectTypeId=ff80808147521243014757b4db74036c
+01:12:25,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff80808147521243014757b75de30371
+01:12:32,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/chooseProjectType.do?
+01:12:34,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff80808147521243014757b75de30371
+01:12:38,116.127.149.153,8341BF6545D8418B889950888F6BA1CE,ebff6c00801e4b6c8bb68fbc9bafaa13,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/applyStep/queryProjectBind.do?collegeId=&majorId=&majorField=&teachLanguage=0&pageSize=20&pageNum=1
+01:17:40,122.46.157.22,null,8596ce1c70b6446bad12844b415422a9,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+http://nankai.17gz.org/member/login.do?
+01:17:40,122.46.157.22,null,8596ce1c70b6446bad12844b415422a9,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+01:17:41,122.46.157.22,null,8596ce1c70b6446bad12844b415422a9,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?19469=
+01:20:40,79.49.23.204,null,db9462ad8b82447c87aaa4d80ddc381d,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=QYZZ
+01:20:41,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/index.do?
+01:20:45,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/index.do?
+01:21:09,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/edit.do?applyId=9913AE3A8CC24B33A6D36B9C421A1271
+01:21:36,171.7.133.215,null,9d706452256145ad9d7d1506539326b5,method=GET;Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt; DTS Agent
+http://nankai.17gz.org/member/login.do?
+01:23:22,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/submit.do?applyId=9913AE3A8CC24B33A6D36B9C421A1271
+01:23:22,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/view.do?applyId=9913AE3A8CC24B33A6D36B9C421A1271
+01:23:33,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/report/show.do?applyNo=20181200017&jasperPrintKey=nankai100552&apply_id=9913AE3A8CC24B33A6D36B9C421A1271&reportType=directPdf
+01:24:53,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/index.do?
+01:24:56,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/showBindStudent.do?
+01:25:11,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/applyNotes.do?
+01:25:15,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/index.do?
+01:25:51,79.49.23.204,1C027AF2EB5049799BB332DF9CD6F32E,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/logout.do?url=
+01:25:52,79.49.23.204,null,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/login.do?
+01:25:53,79.49.23.204,null,db9462ad8b82447c87aaa4d80ddc381d,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/captcha.do?19830=
+01:42:45,212.252.83.85,null,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/member/login.do?
+01:42:45,212.252.83.85,null,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/captcha.do?20273=
+01:43:45,212.252.83.85,null,6bb74c2136f24572b7e9c5ab7c080d50,method=POST;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=qgor
+01:43:45,212.252.83.85,893AC5582B644978919D1AE4C0E4E75E,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/member/index.do?
+01:43:52,212.252.83.85,893AC5582B644978919D1AE4C0E4E75E,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+01:44:46,8.37.235.120,null,97d917853c3c44b78687b8723b0f0f59,method=GET;Mozilla/5.0 (Linux; U; Android 7.0; en-US; WAS-LX1 Build/HUAWEIWAS-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.5.0.1015 Mobile Safari/537.36
+http://nankai.17gz.org/member/login.do?
+01:44:52,37.110.215.207,null,97d917853c3c44b78687b8723b0f0f59,method=GET;Mozilla/5.0 (Linux; U; Android 7.0; en-US; WAS-LX1 Build/HUAWEIWAS-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.5.0.1015 Mobile Safari/537.36
+https://nankai.17gz.org/member/login.do?
+01:44:54,37.110.215.207,null,97d917853c3c44b78687b8723b0f0f59,method=GET;Mozilla/5.0 (Linux; U; Android 7.0; en-US; WAS-LX1 Build/HUAWEIWAS-LX1) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/40.0.2214.89 UCBrowser/11.5.0.1015 Mobile Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?20342=
+02:01:45,124.90.173.81,null,d9fb54a1c49c486a8adb91656108c189,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+http://nankai.17gz.org/member/login.do?
+02:01:45,124.90.173.81,null,d9fb54a1c49c486a8adb91656108c189,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+02:01:45,124.90.173.81,null,d9fb54a1c49c486a8adb91656108c189,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?20736=
+02:02:05,124.90.173.81,null,d9fb54a1c49c486a8adb91656108c189,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=gsre
+02:02:05,124.90.173.81,null,d9fb54a1c49c486a8adb91656108c189,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?1544119323773=
+02:03:06,124.90.173.81,null,d9fb54a1c49c486a8adb91656108c189,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=tulo
+02:03:06,124.90.173.81,34C646D341D045869566F9E22701046B,d9fb54a1c49c486a8adb91656108c189,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/index.do?
+02:03:08,124.90.173.81,34C646D341D045869566F9E22701046B,d9fb54a1c49c486a8adb91656108c189,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+02:03:14,124.90.173.81,34C646D341D045869566F9E22701046B,d9fb54a1c49c486a8adb91656108c189,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/edit.do?applyId=58FC777AA6434364A4F7D4FFD764A840
+02:53:59,5.47.211.114,null,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/member/login.do?
+02:54:00,5.47.211.114,null,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/captcha.do?21514=
+02:54:23,5.47.211.114,null,6bb74c2136f24572b7e9c5ab7c080d50,method=POST;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=yetv
+02:54:24,5.47.211.114,893AC5582B644978919D1AE4C0E4E75E,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/member/index.do?
+02:54:28,5.47.211.114,893AC5582B644978919D1AE4C0E4E75E,6bb74c2136f24572b7e9c5ab7c080d50,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+02:57:52,83.251.194.93,null,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+02:57:52,83.251.194.93,null,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?21592=
+02:58:05,83.251.194.93,null,c2dad678c91e4ce396785a52f970838b,method=POST;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=XUOX
+02:58:06,83.251.194.93,B0522D1F6F244A71BE722D1684C8B3D8,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/index.do?
+03:01:37,83.251.194.93,B0522D1F6F244A71BE722D1684C8B3D8,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+03:01:41,83.251.194.93,B0522D1F6F244A71BE722D1684C8B3D8,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/logout.do?url=
+03:01:42,83.251.194.93,null,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+03:01:42,83.251.194.93,null,c2dad678c91e4ce396785a52f970838b,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?21630=
+03:03:06,141.76.180.50,null,112698eb754944a0a300b2c2caedfd2b,method=GET;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/index.do?
+03:03:07,141.76.180.50,null,112698eb754944a0a300b2c2caedfd2b,method=GET;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/member/login.do?
+03:03:07,141.76.180.50,null,112698eb754944a0a300b2c2caedfd2b,method=GET;Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:63.0) Gecko/20100101 Firefox/63.0
+https://nankai.17gz.org/apply/captcha.do?21644=
+03:23:29,217.8.46.86,null,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+http://nankai.17gz.org/member/login.do?
+03:23:31,217.8.46.86,null,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/member/login.do?
+03:23:32,217.8.46.86,null,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?21930=
+03:23:49,217.8.46.86,null,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=zaqe
+03:23:50,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/member/index.do?
+03:23:53,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+03:24:02,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/deleteApply.do?applyId=2E4E61F37B6B4874BBA8EC2B091ECB9C
+03:24:02,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+{"applyExId":1234123059,"applyStatus":0,"applyStep":0,"applyType.id":"1","applyTypeId":"1","college.id":"2012dda61801c0008100552","collegeId":"2012dda61801c0008100552","createTime":1544067578774,"groupFlag":false,"id":"2E4E61F37B6B4874BBA8EC2B091ECB9C","inter.id":"10","interId":"10","isAcademic":false,"isOversea":false,"jflb.id":"710055","jflbId":"710055","jfly.id":"1","jflyId":"1","majorId":"ff80808150a941700150abfb2c14027c","member.id":"DBB0C1CAC17F4B18BE307A648F7C9A6A","memberEmail":"dillytjk@mail.ru","memberId":"DBB0C1CAC17F4B18BE307A648F7C9A6A","modifyTime":1544067578774,"oldApplyStatus":0,"projectBindId":457088698,"projectId":144190878,"projectTypeId":"ff8080814e538266014e675c248a1f8d","receiveStatus":0,"schoolId":"2","sex":0,"signupEndDate":"2019-02-20","signupStartDate":"2019-02-18","status2":0,"studyEndDate":"2019-07-31","studyScholar":0,"studyStartDate":"2019-02-18","teachLanguage":1,"tlqx":0,"tuiChinese":false,"years":"0.5"}
+03:24:08,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/startApply.do?
+03:24:22,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveAcademicType.do?projectTypeId=ff8080814e538266014e675af35e1f7f
+03:24:25,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff8080814e538266014e675c248a1f8d
+03:24:47,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectBind.do?projectBindId=457088698
+03:25:07,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyAttach/uploadAttach.do?applyId=81C6F14E03A54623905F02A0D30B63C1&attachType=photo&photo=dd-1.png
+03:27:44,105.159.128.36,null,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+03:27:44,105.159.128.36,null,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+03:27:45,105.159.128.36,null,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?22029=
+03:28:11,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+03:28:44,105.159.128.36,null,807383caaa1c48dab5d5cb5393731345,method=POST;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/loginCheck.do?fromUrl=&j_captcha=TNKX
+03:28:44,105.159.128.36,13E3FE21E1F14D1486DC5A43D2FE1E48,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/index.do?
+03:28:46,105.159.128.36,13E3FE21E1F14D1486DC5A43D2FE1E48,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/index.do?
+03:28:56,105.159.128.36,13E3FE21E1F14D1486DC5A43D2FE1E48,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/logout.do?url=
+03:28:56,105.159.128.36,null,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+03:28:57,105.159.128.36,null,807383caaa1c48dab5d5cb5393731345,method=GET;Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+https://nankai.17gz.org/apply/captcha.do?22050=
+03:29:29,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/saveBase.do?applyId=81C6F14E03A54623905F02A0D30B63C1&apply.lastName=Naimjonzoda&apply.givenName=Dilshodjon&apply.name=&apply.sex=0&apply.marryStatus=1&apply.countryId=191&apply.bornedDate=1987-02-03&apply.bornedCountryId=191&apply.bornedAddress=Khujand+&apply.languageId=88&apply.educationId=3&apply.religionId=7&apply.workplace=self+employed+&apply.careerId=ff8080812ef58be3012ef5d7aaf20003&apply.careerName=&apply.healthStatus=Fine+&apply.isOversea=false&apply.restrict=&apply.gainCountryDate=&apply.hobby=gym+&apply.passportNo=401055337&apply.passportExpire=2026-05-16
+03:33:30,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/saveStudyPlan.do?applyId=81C6F14E03A54623905F02A0D30B63C1&apply.languageSkillId=1&apply.hskId=&apply.hskScore=&apply.hskOralId=&apply.hskkScore=&apply.otherLanguage=&temp_studyDuration=2019-02-18--2019-07-31&apply.studyStartDate=2019-02-18&apply.studyEndDate=2019-07-31&apply.guarSource=%E4%BA%B2%E5%8F%8B-Friends%26+Relatives&apply.guarDefinite=&apply.guarantorEnname=Gulnara+Rahmatova+&apply.guarRelation=Mother+&apply.guarWorkplace=a+teacher+&apply.guarMobile=%2B992926088794&apply.guarPhone=%2B992926088794&apply.guarEmail=g.rahmatova%40mail.ru&apply.guarCountryId=191&apply.guarCareer=&apply.guarAddress=118+Vahdat+street+&apply.guarFax=
+03:36:05,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyAttach/uploadAttach.do?applyId=81C6F14E03A54623905F02A0D30B63C1&ATTACH_TYPE_1203302482=&attachType=ATTACH_TYPE_passportImage&ATTACH_TYPE_passportImage=005.jpg
+03:37:29,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyAttach/uploadAttach.do?applyId=81C6F14E03A54623905F02A0D30B63C1&attachType=ATTACH_TYPE_1203302482&ATTACH_TYPE_passportImage=&ATTACH_TYPE_1203302482=1+005.jpg
+03:37:31,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/saveStudyWorkHistory.do?applyId=81C6F14E03A54623905F02A0D30B63C1&studyHistoryEmptyTag=&sh.id=&sh.id=&sh.startDate=2010-09-01&sh.startDate=2004-09-01&sh.endDate=2013-07-24&sh.endDate=2008-07-14&sh.studyPlace=MKU+University+&sh.studyPlace=Salman+alfarsi+high+school+&sh.stuhisMajor=Bachelor+Business+Administration+&sh.stuhisMajor=high+school+certificate+
+03:39:49,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/saveFamilyMember.do?applyId=81C6F14E03A54623905F02A0D30B63C1&familyMemberEmptyTag=&fm.id=&fm.relativeId=bbc03ada2d7df96a012d7dfcdff40002&fm.name=Gulnara+Rahmatova+&fm.phone=%2B902926088794&fm.email=g.rahmatova%40mail.ru+&fm.duty=a+teacher+&fm.workPlace=school+12&applyEx.hasCriminalRecord=0&applyEx.criminalRecordContent=&apply.selfSupporter=Gulnara+Rahmatova+&apply.selfaddress=118+Vahdat+street+&apply.selfphone=%2B992926088794&apply.ssrelative=Mother+&apply.selfwork=a+teacher+&apply.selfemail=g.rahmatova%40mail.ru+&apply.emergencyName=Gulnara+Rahmatova+&apply.emergencyMobile=%2B992926088794&apply.emergencyPhone=%2B992926088794&apply.emergencyEmail=g.rahmatova%40mail.ru+&apply.emergencyAddress=a+teacher+&apply.emergencyZip=118+Vahdat+street+
+03:42:22,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/saveRelation.do?applyId=81C6F14E03A54623905F02A0D30B63C1&apply.homeAddress=118+Vahdat+street+&apply.homePhone=%2B092929011101&apply.homeCity=Khujand+&apply.homeMobile=%2B992929011101&apply.homeCountryId=191&apply.homeZip=734450&apply.isSame=0&apply.contactPhone=%2B992929011101&apply.contactAddress=118+Vahdat+street+&apply.contactZip=734450&applyEx.facebookNo=&applyEx.wechatNo=dilshodtjk+&applyEx.linkedInNo=&applyEx.twitterNo=&applyEx.qqNo=&applyEx.msnNo=&apply.receiverType=3&apply.receiverName=Dilshodjon+Naimjonzoda+&apply.receiverMobile=%2B992929011101&apply.receiverCity=khujand+&apply.receiverCountryId=191&apply.receiverAddress=118+Vahdat+street+&apply.receiverZip=734450
+03:42:46,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/submit.do?applyId=81C6F14E03A54623905F02A0D30B63C1
+03:42:47,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/view.do?applyId=81C6F14E03A54623905F02A0D30B63C1
+03:42:55,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/report/show.do?applyNo=20181200018&jasperPrintKey=nankai100552&apply_id=81C6F14E03A54623905F02A0D30B63C1&reportType=directPdf
+03:42:58,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=GET;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/report/show.do?applyNo=20181200018&jasperPrintKey=nankai100552&apply_id=81C6F14E03A54623905F02A0D30B63C1&reportType=directPdf
+03:44:08,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/startApply.do?
+03:44:12,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveAcademicType.do?projectTypeId=ff80808147521243014757b4db74036c
+03:44:19,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff80808147521243014757b976890374
+03:44:25,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/chooseProjectType.do?
+03:44:28,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/chooseAcademicType.do?isPriorStep=1
+03:44:34,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveAcademicType.do?projectTypeId=ff8080814e538266014e675af35e1f7f
+03:44:37,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectType.do?projectTypeId=ff8080814e538266014e675c248a1f8d
+03:44:47,217.8.46.86,DBB0C1CAC17F4B18BE307A648F7C9A6A,f5041ce0487e4705bc902ee5b61ac854,method=POST;Mozilla/5.0 (Linux; Android 5.1.1; SAMSUNG SM-N750K/KTU1CPK3 Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/3.3 Chrome/38.0.2125.102 Mobile Safari/537.36
+https://nankai.17gz.org/apply/applyStep/saveProjectBind.do?projectBindId=457088698
+04:07:59,47.52.188.178,null,4d4705f6a57848e282e5a529cf62fa1e,method=GET;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+http://nankai.17gz.org/member/login.do?
+04:07:59,47.52.188.178,null,a4f16677922249e8a9936272965b8940,method=GET;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+04:42:42,176.18.69.111,null,5e7c7ddfe6554d57aebbd19129bc96cb,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+04:42:49,176.18.69.111,null,09555e858c4e40bd81651e6a7349f42f,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+04:57:50,83.251.194.93,null,00e40e7366e14d88898dcba8e213c1a4,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko)
+https://nankai.17gz.org/apply/index.do?
+04:57:54,83.251.194.93,null,0a20ab214ffd4f27a05785170eee3106,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+05:41:03,93.32.78.21,null,5b5dca0570a04f86b822caaf251952de,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebookexternalhit/1.1 Facebot Twitterbot/1.0
+https://nankai.17gz.org/member/index.do?
+06:10:38,83.251.194.93,null,054e02c638414e13af674a5a88bf5b61,method=GET;Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/605.1.15 (KHTML, like Gecko)
+https://nankai.17gz.org/apply/index.do?
+06:10:42,83.251.194.93,null,9812ebef8255446e97c688cae1819702,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+06:13:48,47.52.188.178,null,16b6dbd5127846d9939ac5113ee952cd,method=GET;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+http://nankai.17gz.org/member/login.do?
+06:13:48,47.52.188.178,null,68d076c1877e42609b0559d7c2d73814,method=GET;Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36
+https://nankai.17gz.org/member/login.do?
+07:28:02,218.67.235.107,null,7a3184fb7d5445a9974de0421b1891c9,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+07:38:43,176.18.69.111,null,9cd5f534482243b98c704001d1c7d694,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+07:38:49,176.18.69.111,null,36d8aae6155f45269904b0534b95693e,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+08:32:01,218.67.235.107,null,afda4708ae1c425e81c4f43b033b8589,method=GET;Mozilla/5.0 (iPhone; CPU iPhone OS 12_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Mobile/15E148 Safari/604.1
+https://nankai.17gz.org/apply/index.do?
+08:58:23,220.115.23.11,null,86292951ca1847099e1fd0afddfb8e05,method=GET;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.2; .NET4.0E; GWX:DOWNLOADED)
+https://nankai.17gz.org/lxsgl/login.do?
+08:58:28,220.115.23.11,null,86292951ca1847099e1fd0afddfb8e05,method=GET;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.2; .NET4.0E; GWX:DOWNLOADED)
+https://nankai.17gz.org/admin/loginCodeImage.do?loginToken=b03474da9ced4f3f812aa330723c0a33
+08:58:28,220.115.23.11,null,86292951ca1847099e1fd0afddfb8e05,method=GET;Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.1; WOW64; Trident/7.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; InfoPath.2; .NET4.0E; GWX:DOWNLOADED)
+https://nankai.17gz.org/apply/captcha.do?214=
+09:18:24,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+http://nankai.17gz.org/lxsgl/login.do?
+09:18:24,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/lxsgl/login.do?
+09:18:25,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/loginCodeImage.do?loginToken=32a464c9122d4162b03b006dd5c1745f
+09:18:25,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/apply/captcha.do?2449=
+09:18:45,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/loginCheck.do?checkIpSame=1&j_captcha=hjji
+09:18:45,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/apply/captcha.do?1544145463998=
+09:20:00,220.115.23.9,null,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/loginCheck.do?checkIpSame=1&j_captcha=wvib
+09:20:00,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/lxsgl/main.do?
+09:20:01,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=GET;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/index.do?menuName=%E5%9F%BA%E6%9C%AC%E4%BF%A1%E6%81%AF
+09:20:04,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/query.do?orderField=&orderDirect=&expFields=&findItem=scholar.applyNo&findValue=&print.status=&print.itemCode=&singlePrintSelect=IR_nk_lqtzs&downloadType=IR_jbxx20x&pageSize=20&pageNum=1&leaveSchoolOption_leaveReason=&leaveSchoolOption_leaveTime=&jbyTime=&accident.accidentTypeId=&accident.happenStartDate=2018-12-07&accident.happenEndDate=2018-12-07&accident.transferName=&accident.content=&captureImage=&attachFile=&accident.backup=&updateStudyStatus=1&zoomImageWidth=480&zoomImageHeight=640&imageFileNameType=0&nameType=0&batchSignup_signupDate=2018-12-07&reportCondition_studyYear=2018-2019&reportCondition_studyTerm=01&reportCondition_studyClass=&reportCondition_course=&reportCondition_college=&reportCondition_teacher=&reportCondition_updateNo20x=1&reportCondition_no20x=&reportCondition_expressNo=&reportCondition_expressCompany=&reportCondition_memo=&reportCondition_updateExpressNo=1&internalMsgId=&internalMsgId=&adminPushTitle=&adminPushContent=&sbr.memo=&content=
+09:20:11,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/query.do?orderField=&orderDirect=&expFields=&findItem=scholar.cscNo&findValue=&print.status=&print.itemCode=&singlePrintSelect=IR_nk_lqtzs&downloadType=IR_jbxx20x&pageSize=20&pageNum=1&leaveSchoolOption_leaveReason=&leaveSchoolOption_leaveTime=&jbyTime=&accident.accidentTypeId=&accident.happenStartDate=2018-12-07&accident.happenEndDate=2018-12-07&accident.transferName=&accident.content=&captureImage=&attachFile=&accident.backup=&updateStudyStatus=1&zoomImageWidth=480&zoomImageHeight=640&imageFileNameType=0&nameType=0&batchSignup_signupDate=2018-12-07&reportCondition_studyYear=2018-2019&reportCondition_studyTerm=01&reportCondition_studyClass=&reportCondition_course=&reportCondition_college=&reportCondition_teacher=&reportCondition_updateNo20x=1&reportCondition_no20x=&reportCondition_expressNo=&reportCondition_expressCompany=&reportCondition_memo=&reportCondition_updateExpressNo=1&internalMsgId=&internalMsgId=&adminPushTitle=&adminPushContent=&sbr.memo=&content=
+09:20:23,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/showMoreQueryOptions.do?
+09:20:29,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/query.do?orderField=&orderDirect=&expFields=&findItem=scholar.cscNo&findValue=&print.status=&print.itemCode=&moreQuery=1&scholar.sex=&scholar.tlqx=&scholar.studentNo=&scholar.applyNo=&scholar.cscNo=&scholar.englishName=&scholar.name=&scholar.countryParentId=&scholar.countryId=&scholar.marryStatus=&isOversea=&major0=&major=&scholar.teachLanguage=&scholar.languageSkillId=&scholar.itemId=&scholar.hobby=&scholar.jflyId=3&scholar.bornedCountryId=&scholar.advisor=&scholar.schoolRestrictId=&scholar.languageId=&scholar.backup=&scholar.guarWorkplace=&studyclass.studyClassId=&studyClass.xn=&studyClass.xq=&studyClass.courseId=&student.year=&scholar.bornedDate1=&scholar.bornedDate2=&scholar.signupStartDate1=&scholar.signupStartDate2=&scholar.signupEndDate1=&scholar.signupEndDate2=&scholar.studyStartDate1=&scholar.studyStartDate2=&scholar.studyEndDate1=&scholar.studyEndDate2=&scholar.isTuiChinese=&scholar.tuiSchoolId=&scholar.tuiStartDate1=&scholar.tuiStartDate2=&scholar.tuiEndDate1=&scholar.tuiEndDate2=&scholar.scholarStartDate1=&scholar.scholarStartDate2=&scholar.scholarEndDate1=&scholar.scholarEndDate2=&scholar.applyDate1=&scholar.applyDate2=&scholar.finishDate1=&scholar.finishDate2=&scholar.signupDate1=&scholar.signupDate2=&scholar.graduateDate1=&scholar.graduateDate2=&scholar.leaveDate1=&scholar.leaveDate2=&scholar.leaveReasonId=&scholar.resiExpire1=&scholar.resiExpire2=&scholar.passportExpire1=&scholar.passportExpire2=&scholar.visaExpire1=&scholar.visaExpire2=&scholar.rollNo=&scholar.educationNo=&scholar.jxzsNo=&scholar.xwzsNo=&scholar.bxlb=&scholar.religionId=&moreQuery.studyYear=&moreQuery.studyTerm=&moreQuery.registStatus=&moreQuery.regist.handleDate1=&moreQuery.regist.handleDate2=&scholar.studyStatus=&moreQuery.universityId=&sczlTag=&scholar.userName=&scholar.modifyDate1=&scholar.modifyDate2=&singlePrintSelect=IR_nk_lqtzs&downloadType=IR_jbxx20x&pageSize=20&pageNum=1&leaveSchoolOption_leaveReason=&leaveSchoolOption_leaveTime=&jbyTime=&accident.accidentTypeId=&accident.happenStartDate=2018-12-07&accident.happenEndDate=2018-12-07&accident.transferName=&accident.content=&captureImage=&attachFile=&accident.backup=&updateStudyStatus=1&zoomImageWidth=480&zoomImageHeight=640&imageFileNameType=0&nameType=0&batchSignup_signupDate=2018-12-07&reportCondition_studyYear=2018-2019&reportCondition_studyTerm=01&reportCondition_studyClass=&reportCondition_course=&reportCondition_college=&reportCondition_teacher=&reportCondition_updateNo20x=1&reportCondition_no20x=&reportCondition_expressNo=&reportCondition_expressCompany=&reportCondition_memo=&reportCondition_updateExpressNo=1&internalMsgId=&internalMsgId=&adminPushTitle=&adminPushContent=&sbr.memo=&content=
+09:20:36,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/query.do?orderField=&orderDirect=&expFields=&scholar.status=signup&findItem=scholar.cscNo&findValue=&print.status=&print.itemCode=&moreQuery=1&scholar.sex=&scholar.tlqx=&scholar.studentNo=&scholar.applyNo=&scholar.cscNo=&scholar.englishName=&scholar.name=&scholar.countryParentId=&scholar.countryId=&scholar.marryStatus=&isOversea=&major0=&major=&scholar.teachLanguage=&scholar.languageSkillId=&scholar.itemId=&scholar.hobby=&scholar.jflyId=3&scholar.bornedCountryId=&scholar.advisor=&scholar.schoolRestrictId=&scholar.languageId=&scholar.backup=&scholar.guarWorkplace=&studyclass.studyClassId=&studyClass.xn=&studyClass.xq=&studyClass.courseId=&student.year=&scholar.bornedDate1=&scholar.bornedDate2=&scholar.signupStartDate1=&scholar.signupStartDate2=&scholar.signupEndDate1=&scholar.signupEndDate2=&scholar.studyStartDate1=&scholar.studyStartDate2=&scholar.studyEndDate1=&scholar.studyEndDate2=&scholar.isTuiChinese=&scholar.tuiSchoolId=&scholar.tuiStartDate1=&scholar.tuiStartDate2=&scholar.tuiEndDate1=&scholar.tuiEndDate2=&scholar.scholarStartDate1=&scholar.scholarStartDate2=&scholar.scholarEndDate1=&scholar.scholarEndDate2=&scholar.applyDate1=&scholar.applyDate2=&scholar.finishDate1=&scholar.finishDate2=&scholar.signupDate1=&scholar.signupDate2=&scholar.graduateDate1=&scholar.graduateDate2=&scholar.leaveDate1=&scholar.leaveDate2=&scholar.leaveReasonId=&scholar.resiExpire1=&scholar.resiExpire2=&scholar.passportExpire1=&scholar.passportExpire2=&scholar.visaExpire1=&scholar.visaExpire2=&scholar.rollNo=&scholar.educationNo=&scholar.jxzsNo=&scholar.xwzsNo=&scholar.bxlb=&scholar.religionId=&moreQuery.studyYear=&moreQuery.studyTerm=&moreQuery.registStatus=&moreQuery.regist.handleDate1=&moreQuery.regist.handleDate2=&scholar.studyStatus=&moreQuery.universityId=&sczlTag=&scholar.userName=&scholar.modifyDate1=&scholar.modifyDate2=&singlePrintSelect=IR_nk_lqtzs&downloadType=IR_jbxx20x&pageSize=20&pageNum=1&leaveSchoolOption_leaveReason=&leaveSchoolOption_leaveTime=&jbyTime=&accident.accidentTypeId=&accident.happenStartDate=2018-12-07&accident.happenEndDate=2018-12-07&accident.transferName=&accident.content=&captureImage=&attachFile=&accident.backup=&updateStudyStatus=1&zoomImageWidth=480&zoomImageHeight=640&imageFileNameType=0&nameType=0&batchSignup_signupDate=2018-12-07&reportCondition_studyYear=2018-2019&reportCondition_studyTerm=01&reportCondition_studyClass=&reportCondition_course=&reportCondition_college=&reportCondition_teacher=&reportCondition_updateNo20x=1&reportCondition_no20x=&reportCondition_expressNo=&reportCondition_expressCompany=&reportCondition_memo=&reportCondition_updateExpressNo=1&internalMsgId=&internalMsgId=&adminPushTitle=&adminPushContent=&sbr.memo=&content=
+09:20:44,220.115.23.9,D8A2BAC7B51544DDACADA072B1FEB732,1c7c83f929f64d52b40da3065488e068,method=POST;Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 10.0; WOW64; Trident/7.0)
+https://nankai.17gz.org/admin/student/student/query.do?orderField=&orderDirect=&expFields=&scholar.status=signup&findItem=scholar.cscNo&findValue=&print.status=&print.itemCode=&moreQuery=1&scholar.sex=&scholar.tlqx=&scholar.studentNo=&scholar.applyNo=&scholar.cscNo=&scholar.englishName=&scholar.name=&scholar.countryParentId=&scholar.countryId=&scholar.marryStatus=&isOversea=&major0=&major=&scholar.teachLanguage=&scholar.languageSkillId=&scholar.itemId=&scholar.hobby=&scholar.jflyId=3&scholar.bornedCountryId=&scholar.advisor=&scholar.schoolRestrictId=&scholar.languageId=&scholar.backup=&scholar.guarWorkplace=&studyclass.studyClassId=&studyClass.xn=&studyClass.xq=&studyClass.courseId=&student.year=&scholar.bornedDate1=&scholar.bornedDate2=&scholar.signupStartDate1=&scholar.signupStartDate2=&scholar.signupEndDate1=&scholar.signupEndDate2=&scholar.studyStartDate1=&scholar.studyStartDate2=&scholar.studyEndDate1=&scholar.studyEndDate2=&scholar.isTuiChinese=&scholar.tuiSchoolId=&scholar.tuiStartDate1=&scholar.tuiStartDate2=&scholar.tuiEndDate1=&scholar.tuiEndDate2=&scholar.scholarStartDate1=&scholar.scholarStartDate2=&scholar.scholarEndDate1=&scholar.scholarEndDate2=&scholar.applyDate1=&scholar.applyDate2=&scholar.finishDate1=&scholar.finishDate2=&scholar.signupDate1=&scholar.signupDate2=&scholar.graduateDate1=&scholar.graduateDate2=&scholar.leaveDate1=&scholar.leaveDate2=&scholar.leaveReasonId=&scholar.resiExpire1=&scholar.resiExpire2=&scholar.passportExpire1=&scholar.passportExpire2=&scholar.visaExpire1=&scholar.visaExpire2=&scholar.rollNo=&scholar.educationNo=&scholar.jxzsNo=&scholar.xwzsNo=&scholar.bxlb=&scholar.religionId=&moreQuery.studyYear=&moreQuery.studyTerm=&moreQuery.registStatus=&moreQuery.regist.handleDate1=&moreQuery.regist.handleDate2=&scholar.studyStatus=&moreQuery.universityId=&sczlTag=&scholar.userName=&scholar.modifyDate1=&scholar.modifyDate2=&singlePrintSelect=IR_nk_lqtzs&downloadType=IR_jbxx20x&pageSize=20&pageNum=1&leaveSchoolOption_leaveReason=&leaveSchoolOption_leaveTime=&jbyTime=&accident.accidentTypeId=&accident.happenStartDate=2018-12-07&accident.happenEndDate=2018-12-07&accident.transferName=&accident.content=&captureImage=&attachFile=&accident.backup=&updateStudyStatus=1&zoomImageWidth=480&zoomImageHeight=640&imageFileNameType=0&nameType=0&batchSignup_signupDate=2018-12-07&reportCondition_studyYear=2018-2019&reportCondition_studyTerm=01&reportCondition_studyClass=&reportCondition_course=&reportCondition_college=&reportCondition_teacher=&reportCondition_updateNo20x=1&reportCondition_no20x=&reportCondition_expressNo=&reportCondition_expressCompany=&reportCondition_memo=&reportCondition_updateExpressNo=1&internalMsgId=&internalMsgId=&adminPushTitle=&adminPushContent=&sbr.memo=&content=
