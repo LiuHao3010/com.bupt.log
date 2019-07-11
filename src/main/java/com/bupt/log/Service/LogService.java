@@ -1,7 +1,6 @@
 package com.bupt.log.Service;
 import com.bupt.log.Bean.Log;
-import com.bupt.log.Bean.MobileLog;
-import com.bupt.log.util.CommonUtil;
+import com.bupt.log.util.*;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageImpl;
 import org.springframework.data.domain.PageRequest;
@@ -10,14 +9,14 @@ import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.data.repository.support.PageableExecutionUtils;
-import org.springframework.stereotype.Repository;
+import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
-@Repository("logService")
+@Service("LogService")
 public class LogService {
     @Resource
     MongoTemplate mongoTemplate;

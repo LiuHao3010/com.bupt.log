@@ -6,6 +6,10 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 public class LogController {
+    @RequestMapping("success")
+    public String hello(){
+        return "hello ";
+    }
     @RequestMapping("/savelog")
     public String save(){
         com.bupt.log.Service.LogService logService=new com.bupt.log.Service.LogService();

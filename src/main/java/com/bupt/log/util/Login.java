@@ -1,6 +1,6 @@
 package com.bupt.log.util;
-
 import com.bupt.log.Bean.User;
+import com.bupt.log.Bean.people;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;

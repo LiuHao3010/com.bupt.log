@@ -1,10 +1,8 @@
 package com.bupt.log.util;
-
 import com.bupt.log.Bean.Log;
 import com.bupt.log.Bean.MobileLog;
 import com.mongodb.util.JSON;
 import org.springframework.stereotype.Repository;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileInputStream;
@@ -37,7 +35,7 @@ public class CommonUtil {
     }
     //从文本中获取web端日志数据，并返回一个日志列表
     public  static List<Log> ReadLogFromFile(String path){
-        List<Log> logs=new ArrayList<Log>();
+        List<Log> Logs=new ArrayList<Log>();
         try{
             Map<String, Integer> date_ymd = CommonUtil.getDate(path);
 
@@ -53,7 +51,7 @@ public class CommonUtil {
                 String lineTxt;
 
                 while((lineTxt = bufferedReader.readLine()) != null){
-                    Log log = new Log();
+                    Log Log = new Log();
                     String[] s = lineTxt.split(",");
                     if(s.length>4){
 
@@ -65,23 +63,23 @@ public class CommonUtil {
                         String sd=year+"-"+month+"-"+day+" "+hour+":"+minute+":"+second;
                         SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
                         Date d = sdf.parse(sd);
-                        log.setDate(d);
+                        Log.setDate(d);
 
                         //设置ip
-                        log.setIp(s[1]);
+                        Log.setIp(s[1]);
 
                         //设置uuid
-                        log.setUuid(s[3]);
+                        Log.setUuid(s[3]);
 
                         StringBuilder userAgent = new StringBuilder(s[4]);
                         for(int i=5;i<s.length;i++){
                             userAgent.append(s[i]);
                         }
-                        log.setUserAgent(userAgent.toString());
+                        Log.setUserAgent(userAgent.toString());
                     }
                     lineTxt = bufferedReader.readLine();
-                    log.setAction(lineTxt);
-                    logs.add(log);
+                    Log.setAction(lineTxt);
+                    Logs.add(Log);
 
                 }
                 bufferedReader.close();
@@ -93,7 +91,7 @@ public class CommonUtil {
             System.out.println("读取文件出错");
             e.printStackTrace();
         }
-        return logs;
+        return Logs;
     }
     //从文件夹下所有文件获取web端日志数据，并返回一个日志列表
     public static List<Log> ReadLogFromDirectory(String path){
@@ -102,7 +100,7 @@ public class CommonUtil {
             return ReadLogFromFile(path);
         }
         else{
-            List<Log> logs=new ArrayList<Log>();
+            List<Log> Logs=new ArrayList<Log>();
             File[] filelist = file.listFiles();
             String pattern = "\\d{8}.txt$";
             Pattern r = Pattern.compile(pattern);
@@ -111,17 +109,17 @@ public class CommonUtil {
                 Matcher m = r.matcher(p.toString());
                 if (m.find()){
                     System.out.println(p.toString());
-                    logs.addAll(ReadLogFromFile(p.toString()));
+                    Logs.addAll(ReadLogFromFile(p.toString()));
                 }
                 else
                     continue;
             }
-            return logs;
+            return Logs;
         }
     }
     //从文本中获取mobile端日志，并返回一个日志列表
     public static List<MobileLog> ReadMobileLogFromFile(String path){
-        List<MobileLog> mobilelogs=new ArrayList<MobileLog>();
+        List<MobileLog> mobileLogs=new ArrayList<MobileLog>();
         try{
             Map<String, Integer> date = CommonUtil.getDate(path);
 
@@ -137,7 +135,7 @@ public class CommonUtil {
                 String lineTxt = bufferedReader.readLine();
 
                 while(lineTxt != null ){
-                    MobileLog log = new MobileLog();
+                    MobileLog Log = new MobileLog();
 
                     String[] s = lineTxt.split(",");
                     if(s.length > 4){
@@ -148,14 +146,14 @@ public class CommonUtil {
                         String sd=year+"-"+month+"-"+day+" "+hour+":"+minute+":"+second;
                         SimpleDateFormat sdf=new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
                         Date d = sdf.parse(sd);
-                        log.setDate(d);
-                        log.setIp(s[1]);
+                        Log.setDate(d);
+                        Log.setIp(s[1]);
 
                         StringBuilder userAgent = new StringBuilder(s[4]);
                         for(int i=5;i<s.length;i++){
                             userAgent.append(s[i]);
                         }
-                        log.setUserAgent(userAgent.toString());
+                        Log.setUserAgent(userAgent.toString());
                     }
                     lineTxt = bufferedReader.readLine();
                     String pattern = "(\\{(.*?)\\})(.*)";
@@ -163,9 +161,9 @@ public class CommonUtil {
                     Matcher m = p.matcher(lineTxt);
                     if(!m.find()) System.out.println("读取内容失败");
                     Map map = (Map) JSON.parse(m.group(1));
-                    log.setInfo(map);
-                    log.setRequest(m.group(3));
-                    mobilelogs.add(log);
+                    Log.setInfo(map);
+                    Log.setRequest(m.group(3));
+                    mobileLogs.add(Log);
 
                     while ( ((lineTxt = bufferedReader.readLine()) != null) && (lineTxt.indexOf("{") == 0)){
                     }
@@ -178,7 +176,7 @@ public class CommonUtil {
             System.out.println("读取文件出错");
             e.printStackTrace();
         }
-        return mobilelogs;
+        return mobileLogs;
     }
     //从文件夹下所有文件获取web端日志数据，并返回一个日志列表
     public static List<MobileLog> ReadMobileLogFromDirectory(String path){
@@ -187,7 +185,7 @@ public class CommonUtil {
             return ReadMobileLogFromFile(path);
         }
         else{
-            List<MobileLog> logs=new ArrayList<MobileLog>();
+            List<MobileLog> Logs=new ArrayList<MobileLog>();
             File[] filelist = file.listFiles();
             String pattern = "\\d{8}M.txt$";
             Pattern r = Pattern.compile(pattern);
@@ -196,13 +194,13 @@ public class CommonUtil {
                 Matcher m = r.matcher(p.toString());
                 if (m.find()){
                     System.out.println(p.toString());
-                    logs.addAll(ReadMobileLogFromFile(p.toString()));
+                    Logs.addAll(ReadMobileLogFromFile(p.toString()));
                 }
                 else
                     continue;;
             }
-            System.out.println(logs.size());
-            return logs;
+            System.out.println(Logs.size());
+            return Logs;
         }
     }
 }
